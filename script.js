@@ -40,7 +40,7 @@ function crearConfeti() {
 
 function sorpresa() {
   const msj = document.getElementById("mensaje");
-  msj.innerHTML = "¡Te amooo mucho! Amor de mi vida y ojala que este dia sea muy bonito y preciado para usted ¡Feliz cumpleaños, mi princesa! 🎉💕 Te amuuu muchooo";
+  msj.innerHTML = "¡Te amooo mucho! Amor de mi vida y ojala que este dia sea muy bonito y preciado para usted ¡Feliz cumpleaños, mi princesa! 🎉💕 Te amuuu muchooo mi Javierita Alejandra Huenchuñan Quinteros ATT:su niño, Levin Arevalo";
   msj.style.opacity = "1";
   msj.style.transform = "scale(1.1)";
 
